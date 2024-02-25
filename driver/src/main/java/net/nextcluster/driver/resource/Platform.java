@@ -65,6 +65,7 @@ public enum Platform {
             return fin;
         }
     ),
+    FABRIC("Fabric", false, "https://meta.fabricmc.net/v2/versions/installer", true),
 
     CUSTOM("Custom");
 
